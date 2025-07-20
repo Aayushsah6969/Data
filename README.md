@@ -20,10 +20,10 @@ This repository contains hands-on explorations, mini-projects, model building, a
 
 ---
 
-code copy paste from chagpt
-run
-store accuracy
-save confusion matrix, PCA visualization
+#### code copy paste from chagpt
+#### run
+#### store accuracy
+#### save confusion matrix, PCA visualization
 
 ---
 
