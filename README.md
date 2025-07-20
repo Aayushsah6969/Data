@@ -51,10 +51,10 @@ A full ML workflow using the classic **Iris dataset**:
 | 4  | Support Vector Machine | ✅ Done  |
 | 5  | Naive Bayes            | ✅ Done  |
 | 6  | Random Forest          | ✅ Done  |
-| 7  | Gradient Boosting      | ⏳ WIP   |
-| 8  | XGBoost                | ⏳ WIP   |
-| 9  | AdaBoost               | ⏳ WIP   |
-| 10 | Extra Trees            | ⏳ WIP   |
+| 7  | Gradient Boosting      | ✅ Don   |
+| 8  | XGBoost                | ✅ Done  |
+| 9  | AdaBoost               | ✅ Done  |
+| 10 | Extra Trees            | ✅ Done  |
 
 ---
 
